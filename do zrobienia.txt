@@ -2,3 +2,5 @@ do zrobienia coœ tam
 kolejna linijka
 trzecia linijka
 czwarta linijka (na rozga³êzeniu)
+pi¹ta linijka (na rozga³êzieniu)
+naprawienie nawigacji fixNavbarTypo
